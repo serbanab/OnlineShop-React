@@ -1,0 +1,46 @@
+footer{
+    background-color: white;
+    z-index: 1;
+}
+
+footer svg {
+   width: 75px;
+   height: 75px;
+   
+}
+
+
+.svg-social{
+    width: 25px;
+    height: 25px;
+}
+
+#face-book{
+    fill: blue;
+}
+
+#in{
+    background-color: #0a66c2;
+    fill: white;
+}
+
+#twitter{
+    fill: lightblue;
+}
+
+#pin{
+    fill: #e60023;
+}
+
+#instagram{
+    fill: royalblue;
+}
+
+footer #logo{
+    width: auto;
+    height: 70px;
+}
+
+footer{
+    background-color: wheat;
+}

@@ -1,0 +1,11 @@
+
+.favorite-item svg{
+    height: 25px;
+    width: 25px;
+    fill: red;
+    cursor: pointer;
+}
+
+.favorite-item img{
+    margin-bottom: 12PX;
+}

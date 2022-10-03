@@ -1,0 +1,13 @@
+.product-item img {
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.product-item  .star-div{
+    width: 250px;
+    margin-bottom: 12px;
+    display: flex;
+    justify-content: end;
+}
+
+  

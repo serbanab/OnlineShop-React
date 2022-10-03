@@ -3,234 +3,234 @@
         "items": [
             {
                 "id": 1,
-                "name": "Sneakerși piele Massimo Dutti",
-                "price": 135,
+                "name": "Bigotti, Pantofi sport de piele cu model brogue",
+                "price": 400,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/Rz8lVQa.jpg",
-                "size": 45,
-                "colour": "Negru",
+                "image": "https://imagizer.imageshack.com/v2/320x240q90/922/qt8Iav.jpg",
+                "size": 39,
+                "colour": "Maro inchis",
                 "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Sneakerși din piele cu talpă inițial albă, din colecția de toamnă-iarnă 2019, Massimo Dutti."
+                "brand": "BIGOTTI",
+                "description": "Bigotti, Pantofi sport de piele cu model brogue, Maro inchis, 39 , BIGOTTI."
             },
             {
                 "id": 2,
-                "name": "Teniși negri Polo Ralph Lauren",
-                "price": 100,
+                "name": "Pantofi barbati , Florida 113",
+                "price": 90,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/Og3Oh24.jpg",
-                "size": 45,
+                "image": "https://imagizer.imageshack.com/v2/320x240q90/924/VMe87h.jpg",
+                "size": 41,
                 "colour": "Negru",
-                "material": "Pânză",
-                "brand": "Polo Ralph Lauren",
-                "description": "Teniși din pânză cu talpă inițial albă, din colecția de primăvară-vară 2019, Fashion Days."
+                "material": "Piele",
+                "brand": "BIGOTTI",
+                "description": "Pantofi barbati , Florida 113, Negru , elegant , piele naturala."
             },
             {
                 "id": 3,
-                "name": "Ghete din piele maro Massimo",
-                "price": 185,
+                "name": "Tenisi Barbati din piele naturala",
+                "price": 145,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/zoqSu87.jpg",
+                "image": "https://imagizer.imageshack.com/v2/320x240q90/924/KwX0EW.jpg",
                 "size": 45,
-                "colour": "Maro",
-                "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Ghete maro din piele, din colecția de toamnă-iarnă 2017, Massimo Dutti."
+                "colour": "Gri",
+                "material": "Piele ecologica",
+                "brand": "OEM",
+                "description": "Adidasi pentru fotbal sala confectionati din piele naturala si textil talpa de guma lipita si cusuta fabricati in Spania."
             }
         ],
-        "image": "https://i.imgur.com/X0qldXO.jpg",
+        "image": "https://imagizer.imageshack.com/img922/4462/9kAcXU.jpg",
         "name": "Încălțăminte",
-        "description": "Ghete, pantofi, sneakerși: finețe garantată!"
+        "description": "Potrivire garantata , mobilitate asigurata."
     },
-    "sweaters": {
+    "neckwear": {
         "items": [
             {
                 "id": 4,
-                "name": "Pulovăr finuț cu guler",
-                "price": 95,
+                "name": "CRAVATĂ BARON BOHO DIN MĂTASE",
+                "price": 189,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/6afzuEr.jpg",
-                "size": "L",
-                "colour": "Maro",
-                "material": "Cașmir",
-                "brand": "DS Damat",
-                "description": "Pulovăr din cașmir, slim fit, colecția toamnă-iarnă 2019, DS Damat."
+                "image": "https://imagizer.imageshack.com/img923/1608/tM8pKF.jpg",
+                "size": "M",
+                "colour": "Albastră",
+                "material": "MĂTASE",
+                "brand": "Bohemian Revolt",
+                "description": "Această cravată albastră din colecția Boho continuă tradiția acestui imprimeu și adaugă avantajele confecției din mătase luxoasă și calitatea designului danez."
             },
             {
                 "id": 5,
-                "name": "Pulovăr multicolor",
-                "price": 105,
+                "name": "CRAVATĂ DIN MĂTASE BRYSON BRUX",
+                "price": 189,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/s0VytKc.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "McNeal",
-                "description": "Pulovăr multicolor, colecția toamnă-iarnă 209, McNeal."
+                "image": "https://imagizer.imageshack.com/img923/311/yvn18g.jpg",
+                "size": "M",
+                "colour": "kaki",
+                "material": "MĂTASE",
+                "brand": "Bohemian Revolt",
+                "description": "Cravată cu imprimeu kaki de inspirație aztecă."
             },
             {
                 "id": 6,
-                "name": "Pulovăr călduros și frumos",
-                "price": 165,
+                "name": "Cravata matase tesuta verde print floral",
+                "price": 220,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/BWGgzlK.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Lână",
-                "brand": "SELECTED",
-                "description": "Pulovăr din lână, în carouri, colecția toamnă-iarnă 2019, SELECTED."
+                "image": "https://imagizer.imageshack.com/img922/4937/rCDRRF.jpg",
+                "size": "M",
+                "colour": "Verde",
+                "material": "MĂTASE",
+                "brand": "BIGOTTI",
+                "description": "Cravata matase , verde , colecția primavara-vara 2022, BIGOTTI."
             },
             {
                 "id": 7,
-                "name": "Pulovăr din lână",
-                "price": 160,
+                "name": "Cravata matase tesuta cyclam print geometric",
+                "price": 250,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/dTcMbHT.jpg",
-                "size": "L",
-                "colour": "Crem",
-                "material": "Lână",
-                "brand": "Massimo Dutti",
-                "description": "Pulovăr din lână cu model, colecția toamnă-iarnă 2019, Massimo Dutti."
+                "image": "https://imagizer.imageshack.com/img924/7720/CSNjXz.jpg",
+                "size": "M",
+                "colour": "Cyclam",
+                "material": "MĂTASE",
+                "brand": "BIGOTTI",
+                "description": "Cravata matase tesuta cyclam print geometric, colecția toamnă-iarnă 2021, BIGOTTI."
             }
         ],
-        "image": "https://i.imgur.com/SZU7liE.jpg",
-        "name": "Pulovere",
-        "description": "Pulovărașe elegănțele, slim, clasă superioară."
+        "image": "https://imagizer.imageshack.com/v2/1024x768q90/923/E5Lbsb.jpg",
+        "name": "Cravate",
+        "description": "Cravate elegante , clasa superioara."
     },
-    "pants": {
+    "shirts": {
         "items": [
             {
                 "id": 8,
-                "name": "Blugi bleumarin slim fit",
-                "price": 35,
+                "name": "CAMASA CEREMONIE CROITA CU TIPAR CAMBRAT",
+                "price": 299.00,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/VhpATO8.jpg",
-                "size": "34",
-                "colour": "Bleumarin închis",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi bleumarin, slim fit, colecția primăvară-vară 2019, DS Damat."
+                "image": "https://imagizer.imageshack.com/img923/3699/0MNqTA.jpg",
+                "size": "39/40",
+                "colour": "Albastru deschis",
+                "material": "Cotton",
+                "brand": "Braiconf",
+                "description": "Camasa de ceremonie, croita cu tipar cambrat, cu pense la spate, realizata din tesatura de bumbac de calitate superioara, guler italian, piepti cu forane si nasturi negri in contrast, cu mansete duble pentru butoni."
             },
             {
                 "id": 9,
-                "name": "Blugi negri slim fit",
-                "price": 40,
+                "name": "Camasa Bleumarin Cu Imprimeu Floral DON Summer Flavour",
+                "price": 199.00,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/weiI07t.jpg",
-                "size": "34",
-                "colour": "Negru-gri",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi negri, slim fit, colecția toamnă-iarnă 2019, DS Damat."
+                "image": "https://imagizer.imageshack.com/img922/5772/3fjQyX.jpg",
+                "size": "S",
+                "colour": "Bleumarin",
+                "material": "Bumbac",
+                "brand": "DON",
+                "description": "Camasa bleumarin cu imprimeu floral Summer Flavour iti va inveseli tinutele de primavara-vara cu imprimeurile sale. Alcatuita 100 % din bumbac, aceasta iti va asigura confortul pe intreaga zi!"
             }
         ],
-        "image": "https://i.imgur.com/srQCDRN.jpg",
-        "name": "Pantaloni/blugi",
-        "description": "Jeanși și pantaloni pentru baieții care și-o ard patroni!"
+        "image": "https://imagizer.imageshack.com/img924/5773/DhhBLc.jpg",
+        "name": "Camasi",
+        "description": "Camasi material premium  , clasa , estetica superioara"
     },
     "jackets": {
         "items": [
             {
                 "id": 10,
-                "name": "Haină lungă din lână virgină",
-                "price": 210,
+                "name": "Geacă matlasată",
+                "price": 99.99,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/IXrZitQ.jpg",
+                "image": "https://imagizer.imageshack.com/img924/3944/JgIIYB.jpg",
                 "size": "L",
-                "colour": "Gri închis",
-                "material": "Lână virgină",
-                "brand": "Peek and Cloppenburg",
-                "description": "Haină lungă din lână virgină, colecția toamnă-iarnă 2018, Peek and Cloppenburg."
+                "colour": "Bej",
+                "material": "POLIESTER",
+                "brand": "Sinsay",
+                "description": "Geaca pentru barbati , poliester , garnitură elastică."
             },
             {
                 "id": 11,
-                "name": "Geacă bleumarin cu glugă detașabilă",
-                "price": 250,
+                "name": "Jacheta Edoti Men's mid-season C531",
+                "price":129,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/eCZd7PU.jpg",
-                "size": "L",
-                "colour": "Bleumarin",
+                "image": "https://imagizer.imageshack.com/img922/2245/42OfZJ.jpg",
+                "size": "M",
+                "colour": "Măsline",
                 "material": "Poliester",
-                "brand": "DS Damat",
-                "description": "Geacă bleumarin cu glugă detașabilă, colecția toamnă-iarnă 2019, DS Damat."
+                "brand": "Factcool",
+                "description": "Geaca eleganta , material poliester culoare măsline ."
             }
         ],
-        "image": "https://i.imgur.com/81I6Oab.jpg",
+        "image": "https://imagizer.imageshack.com/img924/669/KvaOwq.jpg",
         "name": "Geci/Haine",
-        "description": "Confortabile, călduroase și nu arăți ca un cartof!"
+        "description": "Calduroase , potrivite si estetice."
     },
-    "tshirts": {
+    "costumes": {
         "items": [
             {
                 "id": 12,
-                "name": "Tricou în dungi",
-                "price": 90,
+                "name": "COSTUM FILIP CEZAR FOREVER BLUE",
+                "price": 3850,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/BWvzCwB.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "Lacoste",
-                "description": "Tricou în dungi, colecția primăvară-vară 2019, Lacoste."
+                "image": "https://imagizer.imageshack.com/img923/5760/59bxQ6.jpg",
+                "size": "M",
+                "colour": "Bleumarin",
+                "material": "60% lână şi 40% mătase",
+                "brand": "Filip Cezar",
+                "description": "Costum de ceremonie croit la comanda într-un singur nasture, cu guler şpiţ, alcătuit din două piese (pantaloni + sacou), de culoare bleumarin, cu textura subtil lucioasă, având in compoziţie 60% lână şi 40% mătase."
             },
             {
                 "id": 13,
-                "name": "Tricou de ping pong",
-                "price": 110,
+                "name": "COSTUM FILIP CEZAR TRANSIENT BLACK",
+                "price": 4500,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/4BbF4TO.jpg",
-                "size": "L",
-                "colour": "Roșu",
-                "material": "Poliester",
-                "brand": "Li Ning",
-                "description": "Tricou de ping pong cu imprimeu cu dragon, purtat de jucatorii naționalei chinei în 2013."
+                "image": "https://imagizer.imageshack.com/img924/5221/uVBb6M.jpg",
+                "size": "M",
+                "colour": "Negru",
+                "material": "La alegere",
+                "brand": "Filip Cezar",
+                "description": "Costum de mire negru, din noua colecție de ceremonie Filip Cezar, realizat la comandă (bespoke, nu made to measure) de o echipă cu experiență vastă în domeniul croitoriei pentru bărbați."
             },
             {
                 "id": 14,
-                "name": "Tricou original BVB cu autograf",
-                "price": 1909,
+                "name": "COSTUM FILIP CEZAR WINE CHECK",
+                "price": 4800,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/etIsbHV.jpg",
-                "size": "L",
-                "colour": "Galben-Negru",
-                "material": "Poliester",
-                "brand": "Puma",
-                "description": "Tricoul purtat de Borussia Dortmund în sezonul competițional 2018-2019, cu numarul 7 și numele 'SANCHO'. Tricoul este semnat de portarul Borussiei, Roman Burki."
+                "image": "https://imagizer.imageshack.com/img923/231/0vM6De.jpg",
+                "size": "M",
+                "colour": "Bleu, în carouri violet",
+                "material": "Cașmir",
+                "brand": "Filip Cezar",
+                "description": "Costumul din imagini face parte din noua colecție de costume casual, se realizează manual la comandă, având o țesătură din 100% cașmir, cu un model bleu, în carouri violet. La acest costum se poate asocia și o vestă, fiind un accesoriu recomandat bărbaților care vor sa adauge ținutei o notă de eleganță și rafinament."
             }
         ],
-        "image": "https://i.imgur.com/l27WtFL.jpg",
-        "name": "Tricouri",
-        "description": "Și de băiețeală și de sport."
+        "image": "https://imagizer.imageshack.com/img924/9159/F0IxaW.jpg",
+        "name": "Costume",
+        "description": "Calitatea si eleganta mai presus de toate."
     },
     "accesories": {
         "items": [
             {
                 "id": 15,
-                "name": "Fular TJ cu două fețe",
-                "price": 85,
+                "name": "Manusi Marvel Nitrifoam",
+                "price": 16.9,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/rSVUiLO.jpg",
-                "size": "Universal",
-                "colour": "Gri-Bleumarin",
-                "material": "Cașmir",
-                "brand": "Trussardi Jeans",
-                "description": "Fular cu imprimeu, din colecția toamnă-iarnă 2018, Trussardi Jeans."
+                "image": "https://imagizer.imageshack.com/img922/9067/BFYAvp.jpg",
+                "size": "10",
+                "colour": "Negru-Gri",
+                "material": "Nitril",
+                "brand": "Marvel",
+                "description": "Manusile Nitrifoam sunt tricotate si confectionate din nailon, palma si degetele acoperite cu spuma de nitril, manseta elastica, destinate lucrului in mediu uscat si usor uleios."
             },
             {
                 "id": 16,
-                "name": "Mănuși din piele",
-                "price": 60,
+                "name": "Fular Bej închis",
+                "price": 89.99,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/LbjGaZ1.jpg",
-                "size": "L",
-                "colour": "Negru",
-                "material": "Piele",
-                "brand": "DS Damat",
-                "description": "Mănuși din piele, cu model, din colecția toamnă-iarnă 2018, DS Damat."
+                "image": "https://imagizer.imageshack.com/img924/3695/6jtHZd.jpg",
+                "size": "All Sizes",
+                "colour": "Bej închis",
+                "material": "50% Bumbac, 50% Viscoză",
+                "brand": "Born2be",
+                "description": "Fular frumos cu imprimeu , delicat la atingere."
             }
         ],
-        "image": "https://i.imgur.com/qw3wDj8.jpg",
+        "image": "https://imagizer.imageshack.com/img922/715/Exi09O.jpg",
         "name": "Accesorii",
-        "description": "Fulare, căciuli, mănuși: nu mai sta pe gânduri, cumpără-le acuși!"
+        "description": "Fulare, căciuli, mănuși utilitate in raport cu toate."
     }
 }
